@@ -1,0 +1,49 @@
+
+    .one{
+        display:block;
+        margin-bottom: 4px;
+    }
+    .two{
+        display:block;
+        margin-top:2px;
+    }
+    .three{
+        vertical-align:middle;
+        width:200px;
+        display: inline-block;
+    }
+    .four{
+        vertical-align:middle;
+    }
+    .six{
+        font-size: 35;
+        margin-left:100px;
+        padding:1px 1px;
+        margin-bottom: 10px;
+    }
+    .mini1{
+        color:blue;
+       
+    }
+     .mini2{
+        color:red;
+        
+    } .mini3{
+        color:orange;
+    } .mini4{
+        color:blue;
+    } .mini5{
+        color:green;
+    }
+    .mini6{
+        color:red;
+    }
+    .seven{
+        border:none;
+        font-size: 18px;
+        box-shadow: 2px 3px 10px rgb(132, 128, 128);
+        width: 400px;
+        border-radius: 25px;
+        margin-top: 0px;
+    }
+   

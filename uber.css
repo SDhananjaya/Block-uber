@@ -1,0 +1,39 @@
+.first{
+    font-size:20px;
+    font-weight: bold;
+    display: block;
+}
+.one{
+    border:none;
+    width:400px;
+    display: block;
+    background-color: rgb(216, 214, 214);
+    font-size:13px;
+    padding: 6px 8px;
+    margin-bottom: 6px;
+}
+.two{
+    border:none;
+    width:400px;  
+    display: block;
+    background-color: rgb(216, 214, 214);
+    font-size:13px;
+    padding: 6px 8px;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+.three{
+    background-color: black;
+    color:white;
+    margin-top: 15px;
+    width: 100px;
+    padding: 4px 6px;
+    margin-right: 5px;
+    border:none;
+}
+.four{
+    margin-top: 15px;
+    padding: 6px 8px;
+    margin-right: 5px;
+    border:none;
+}
